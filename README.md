@@ -39,7 +39,7 @@ The following services are leveraged in the sample solution and may be part of y
 
 ### Exploring the sample app
 
-Deploy the latest ***Virtual Visit Custom Launcher*** solution file ([/soluiton-file-history](./solution-file-history)) to your Dataverse environment, then Publish and run the *Connect Virtually* app.
+Deploy the latest ***Virtual Visit Custom Launcher*** solution file ([/solution-file-history](./solution-file-history)) to your Dataverse environment, then Publish and run the *Connect Virtually* app.
 
 Explore the configuration of the solution components via the maker portal. Review the Power Apps canvas and Power Automate workflow used in the sample app.
 
